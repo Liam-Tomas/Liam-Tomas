@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liam-Tomas
-- 👀 I’m a CS student interested in software development
+- 👀 I’m a CS student and software developer from the Bay Area.
 - 📫 Reach me at ltarmstrong94@gmail.com
 
 <!---
