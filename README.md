@@ -1,5 +1,5 @@
 - Hey, I’m @Liam-Tomas
-- I’m a CS student / software developer / data analyst from the Bay Area.
+- I’m a CS student and software / data engineer from the Bay Area.
 - 📫 Reach me at ltarmstrong94@gmail.com
 
 <!---
